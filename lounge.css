@@ -6,6 +6,7 @@
 body{
 	font-family: verdana, geneva, arial, sans-serif;
 	text-align: center;
+	color: #FFC125;
 }
 
 .wrapper{
@@ -73,4 +74,9 @@ nav a:hover{
 	background:  #363636;
 	opacity: .7;
 	z-index: -1;
+}
+
+.banner-area {
+	text-align: center;
+	color: #FFC125;
 }
